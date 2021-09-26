@@ -1,1 +1,1 @@
-web: vendor/bin/heroku-php-apache2 public/logi
+web: vendor/bin/heroku-php-apache2 public/login
